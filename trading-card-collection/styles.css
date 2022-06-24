@@ -1,0 +1,14 @@
+h1 {
+    text-align: center;
+}
+
+.pagecolor {
+    background-color: red;
+    width: 200px;
+    height: 25px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin: 10px auto;
+}
